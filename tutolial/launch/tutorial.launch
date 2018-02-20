@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="tutolial" name="tuto" type="sim"/>
+	<node pkg="turtlesim" name="kame" type="turtlesim_node"/>
+	
+</launch>
